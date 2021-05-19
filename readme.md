@@ -1,8 +1,7 @@
 # PGRA
+The code for the paper "[PGRA: Projected Graph Relation-Feature Attention Network for Heterogeneous Information Network Embedding.](https://doi.org/10.1016/j.ins.2021.04.070)", Information Sciences journal.
 
 <img src="figs/PGRA.png" width="800" height="320">
-
-The code for the paper "[PGRA: Projected Graph Relation-Feature Attention Network for Heterogeneous Information Network Embedding.](https://doi.org/10.1016/j.ins.2021.04.070)"
 
 ## Requirements
 
