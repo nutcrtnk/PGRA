@@ -19,6 +19,7 @@ Run the code using the command:
 ```
 python src/main.py [Dataset_Name] [options]
 ```
+We provide datasets in "data.zip" file.
 
 ## Options
 For PGRA-DistMult, use default hyperparameters
