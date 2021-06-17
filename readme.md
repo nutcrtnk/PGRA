@@ -41,7 +41,7 @@ or to manually set, use
 
 ## Reference
 
-If you find our work helpful, please cite our work
+If you find the code helpful, please cite our work:
 ```
 @article{chairatanakul2021pgra,
   title = {PGRA: Projected graph relation-feature attention network for heterogeneous information network embedding},
