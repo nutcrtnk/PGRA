@@ -38,3 +38,20 @@ or to manually set, use
 ```
 --nb_reg [value]
 ```
+
+## Reference
+
+If you find our work helpful, please cite our work
+```
+@article{Chairatanakul2021PGRA,
+title = {PGRA: Projected graph relation-feature attention network for heterogeneous information network embedding},
+journal = {Information Sciences},
+volume = {570},
+pages = {769-794},
+year = {2021},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2021.04.070},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025521004059},
+author = {Nuttapong Chairatanakul and Xin Liu and Tsuyoshi Murata}
+}
+```
